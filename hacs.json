@@ -1,0 +1,10 @@
+{
+  "name": "Ventilsteuerung",
+  "content_in_root": false,
+  "domains": [
+    "ventilsteuerung"
+  ],
+  "homeassistant": "2024.0.0",
+  "iot_class": "local_polling",
+  "integration_type": "integration"
+}
